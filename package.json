@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "sass": "^1.77.1"
-  } , 
-  "scripts": {
-    "start": "sass mainProject/scss/sass.scss mainProject/public/css/style.css -w" 
-  }
-}
